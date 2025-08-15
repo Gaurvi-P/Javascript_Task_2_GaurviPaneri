@@ -22,7 +22,11 @@ DynamicTable
 ## How to run 
 1. Clone the repository
     git clone https://github.com/Gaurvi-P/JavaScript_Task_2_GaurviPaneri.git
+<<<<<<< HEAD:Code/DynamicTable_Code/README.md
     cd JavaScript_Task_2_GaurviPaneri/code/DynamicTable_code
+=======
+    cd JavaScript_Task_2_GaurviPaneri
+>>>>>>> 1e27033bbaf9b57339d2ac14076bff6868b4bb9e:Code/Task-2/README.md
 2. Open the DynamicTable.html file in any Web Browser
     or
     Use Go live in VS Code to launch it
