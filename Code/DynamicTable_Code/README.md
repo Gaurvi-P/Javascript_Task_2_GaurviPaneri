@@ -21,8 +21,8 @@ DynamicTable
 
 ## How to run 
 1. Clone the repository
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Gaurvi-P/JavaScript_Task_2_GaurviPaneri.git
+    cd JavaScript_Task_2_GaurviPaneri/code/DynamicTable_code
 2. Open the DynamicTable.html file in any Web Browser
     or
     Use Go live in VS Code to launch it
